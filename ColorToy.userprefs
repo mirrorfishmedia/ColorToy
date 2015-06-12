@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\PollenPC2\pollen\Assets\Scripts\HoldDownShield.cs">
+    <Files>
+      <File FileName="..\..\PollenPC2\pollen\Assets\CreateAsteroid.cs" Line="31" Column="49" />
+      <File FileName="..\..\PollenPC2\pollen\Assets\V4\CrazyTreeScript.cs" Line="1" Column="1" />
+      <File FileName="..\..\PollenPC2\pollen\Assets\CrazyBushSpawner.cs" Line="1" Column="1" />
+      <File FileName="..\..\PollenPC2\pollen\Assets\Scripts\HoldDownShield.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
